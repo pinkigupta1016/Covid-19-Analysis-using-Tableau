@@ -10,10 +10,22 @@ The virus can spread from an infected person’s mouth or nose in small liquid p
 
 Here are some analysis using tableau
 
-What are the total number of confirmed cases in different nation?
+# What are the total number of confirmed cases in different nations?
 
 ![Confirmed cases (1)](https://user-images.githubusercontent.com/108023874/186394659-25ff6e51-1d2d-4996-8d04-1a1ff8aaa081.png)
 ![Confirmed cases (2)](https://user-images.githubusercontent.com/108023874/186394714-b8a29ab9-27d4-44db-801a-c117fd524142.png)
+
+# What are the to total number of recovered cases in different nations?
+
+![Recovered rate](https://user-images.githubusercontent.com/108023874/186397902-3e8c9625-7904-4862-acd1-9d3e80fd4a2b.png)
+![Recovered rate2](https://user-images.githubusercontent.com/108023874/186397970-669c06b3-7ae0-4c7c-a2aa-88e4dae922be.png)               ![confirmed and recovered rate](https://user-images.githubusercontent.com/108023874/186398987-0683d727-6f2e-4921-b41f-d531665fb090.png)
+
+
+# what are the to total number of confirmed cases in India?
+![Confirmed cases in India](https://user-images.githubusercontent.com/108023874/186400637-6beec293-af3a-4456-b4f8-5eac03fd3a5b.png)
+
+
+
 
 
 
