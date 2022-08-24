@@ -1,3 +1,4 @@
+![Confirmed cases](https://user-images.githubusercontent.com/108023874/186393154-3a91b3fa-6050-4aa6-af3c-04ffa969a2c0.png)
 # Covid-19-Analysis-using-Tableau
 Coronavirus disease (COVID-19) is an infectious disease caused by the SARS-CoV-2 virus.
 
